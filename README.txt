@@ -1,3 +1,19 @@
+Team Emphora,
+
+We need to have regular meetings, once or twice a week. There is not much time and we should pull this thing off in 2-3 months.
+
+REMEMBER:  
+- We are not coding
+- We are not designing screens
+- We just need stories to explain the idea
+
+You will need to dedicate your time to meetings, reading materials etc. We can discuss this in our next meeting.
+
+If we can not do this, we should stop right now since it will take too long to get anything done.
+
+I wait for your response
+
+
 MUST READ AND UNDERSTAND
 ---------------------------------------------------------------------------------
 1. Introduction to Large Language Models– https://lnkd.in/gfKGzHSE
