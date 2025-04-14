@@ -1,3 +1,5 @@
+MUST READ AND UNDERSTAND
+---------------------------------------------------------------------------------
 1. Introduction to Large Language Models– https://lnkd.in/gfKGzHSE
 2. Generative AI with Large Language Models– https://lnkd.in/gwPN9VCH
 3. Large Language Models (LLMs) Concepts– https://lnkd.in/g84xe52n
